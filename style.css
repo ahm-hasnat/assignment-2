@@ -455,6 +455,11 @@ marquee{
     html{
         font-size: 14px;
     }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
     .list,.navbtn,.nav h1{
         display: none;
     }
@@ -472,8 +477,8 @@ marquee{
         display: block;
     }
     .nav img{
-        width: 3.5rem;
-        height: 3.5rem;
+        width: 4rem;
+        height: 4rem;
     }
     .logo{
         width: 100%;
