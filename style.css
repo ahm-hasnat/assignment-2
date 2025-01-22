@@ -479,7 +479,7 @@ marquee{
         color: rgba(17, 17, 17, 1);
         font-size: 2.5rem;
         font-weight: normal;
-        display: block;
+        display: flex;
     }
     .nav img{
         width: 4rem;
@@ -499,7 +499,7 @@ marquee{
         margin: 0 auto;
     }
     #baner img{
-        width:100%;
+        width:98%;
         height: 37rem;
     }
     
@@ -533,7 +533,7 @@ marquee{
         width: 100%;
     }
     .card{
-        width: 100%;
+        width: 99%;
         height: 30rem;
         margin: 0 auto;
         padding: 1rem;
@@ -574,7 +574,7 @@ marquee{
         gap: 1rem;
         padding: 0rem;
         margin: 0 auto;
-        width: 100%;
+        width: 99%;
     }
     .smallcard{
         display: flex;
@@ -615,7 +615,7 @@ marquee{
         display: flex;
         justify-content: left;
         margin: 0;
-        width: 100%;
+        width: 99%;
     }
     .footertext p{
         font-size: 1.1rem;
